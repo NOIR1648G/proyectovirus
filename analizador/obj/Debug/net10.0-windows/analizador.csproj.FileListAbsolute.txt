@@ -1,0 +1,39 @@
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.Form1.resources
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.loggin_adm.resources
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.pant_principal.resources
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.Properties.Resources.resources
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.GenerateResource.cache
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\proyecto analizador de viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.loggin_usuarios.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.loggin_adm.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.loggin_usuarios.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.pant_principal.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.Properties.Resources.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.GenerateResource.cache
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.AssemblyInfoInputs.cache
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.AssemblyInfo.cs
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\analizador.exe
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\analizador.deps.json
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\analizador.runtimeconfig.json
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\analizador.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\analizador.pdb
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\refint\analizador.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.pdb
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.genruntimeconfig.cache
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\ref\analizador.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.Up2Date
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.AssemblyReference.cache
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.principal_adm.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.Form1.resources
