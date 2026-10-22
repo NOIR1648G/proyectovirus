@@ -1,6 +1,6 @@
 ﻿namespace analizador
 {
-    partial class Form1
+    partial class añadirusuario
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(añadirusuario));
             label1 = new Label();
             label2 = new Label();
             Nombre = new TextBox();

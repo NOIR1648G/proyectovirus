@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace analizador
 {
-    public partial class Form1 : Form
+    public partial class añadirusuario : Form
     {
-        public Form1()
+        public añadirusuario()
         {
             InitializeComponent();
         }

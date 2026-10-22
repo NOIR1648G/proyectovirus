@@ -1,0 +1,5 @@
+.VS/
+analizador/obj/
+analizador/bin/
+proyecto.mdf
+proyecto_log.ldf

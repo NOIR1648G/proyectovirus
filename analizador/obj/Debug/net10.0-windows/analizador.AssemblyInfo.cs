@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("analizador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e47e8b07b18dc8037651281408d7fbc1af70cd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("analizador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("analizador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

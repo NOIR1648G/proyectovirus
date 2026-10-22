@@ -5,7 +5,7 @@ namespace analizador.Clases
 {
     internal class cConexion
     {
-        private string cadenaconexion = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\DANIEL\Documents\proyecto.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True;Encrypt=False;";
+        private string cadenaconexion = @"VData Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\DANIEL\analizador\proyecto.mdf;Integrated Security=True;Connect Timeout=30;Encrypt=True";
         public SqlConnection ObtenerConexion()
         {
             return new SqlConnection(cadenaconexion);

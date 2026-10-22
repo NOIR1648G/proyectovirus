@@ -36,4 +36,5 @@ C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\D
 C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.csproj.AssemblyReference.cache
 C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.principal_adm.resources
-C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.Form1.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.añadirusuario.resources
+C:\Users\DANIEL\Desktop\proyecto_analizador_de_viruz\analizador\analizador\obj\Debug\net10.0-windows\analizador.sourcelink.json
